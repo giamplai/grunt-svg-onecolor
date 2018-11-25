@@ -1,6 +1,6 @@
 /*
- * gunt-svg-onecolor
- * https://github.com/giamplai/gunt-svg-onecolor
+ * grunt-svg-onecolor
+ * https://github.com/giamplai/grunt-svg-onecolor
  *
  * Copyright (c) 2018 Giampiero Lai
  * Licensed under the MIT license.

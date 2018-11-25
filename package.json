@@ -1,23 +1,23 @@
 {
-  "name": "gunt-svg-onecolor",
+  "name": "grunt-svg-onecolor",
   "description": "SVG to one color converter",
   "version": "0.1.0",
-  "homepage": "https://github.com/giamplai/gunt-svg-onecolor",
+  "homepage": "https://github.com/giamplai/grunt-svg-onecolor",
   "author": {
     "name": "Giampiero Lai",
     "email": "giampiero.lai@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/giamplai/gunt-svg-onecolor.git"
+    "url": "git://github.com/giamplai/grunt-svg-onecolor.git"
   },
   "bugs": {
-    "url": "https://github.com/giamplai/gunt-svg-onecolor/issues"
+    "url": "https://github.com/giamplai/grunt-svg-onecolor/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/giamplai/gunt-svg-onecolor/blob/master/LICENSE-MIT"
+      "url": "https://github.com/giamplai/grunt-svg-onecolor/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
