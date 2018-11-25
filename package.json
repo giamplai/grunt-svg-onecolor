@@ -1,0 +1,42 @@
+{
+  "name": "gunt-svg-onecolor",
+  "description": "SVG to one color converter",
+  "version": "0.1.0",
+  "homepage": "https://github.com/laig/gunt-svg-onecolor",
+  "author": {
+    "name": "Giampiero Lai",
+    "email": "giampiero.lai@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/laig/gunt-svg-onecolor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laig/gunt-svg-onecolor/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/laig/gunt-svg-onecolor/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-nodeunit": "^2.0.0"
+  },
+  "keywords": [
+    "gruntplugin", "svg", "colorize", "onecolor"
+  ],
+  "dependencies": {
+    "async": "^2.6.1",
+    "chalk": "^2.4.1"
+  }
+}
